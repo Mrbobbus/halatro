@@ -8,7 +8,7 @@ name:           halatro
 version:        0.1.0.0
 description:    A simple implementation of the basic Balatro ruleset in Haskell, including a terminal user interface.
 author:         Alex Dixon
-maintainer:     alexander.dixon@warwick.ac.uk
+maintainer:     kisielewskij66@gmail.com
 copyright:      2025 Alex Dixon
 license:        BSD-3-Clause
 build-type:     Simple
